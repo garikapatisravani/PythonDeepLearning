@@ -1,0 +1,17 @@
+State differences between Python 2 and Python 3 version.
+
+Print function
+The print keyword in Python 2 is replaced by print function in Python 3
+print ‘Hello’ #Python2
+print(‘Hello’) #Python3
+
+Division operator
+We always get an integer value when two integers are divided. #Python2
+We get a float value when two integers are divided. #Python3
+
+
+
+
+
+
+
