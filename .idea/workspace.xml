@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f238a717-9af1-4b56-afd5-2a081ed6a16a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP1/venv/StringReplace.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP1/venv/StringReplace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP1/venv/StringReverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP1/venv/StringReverse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.StringReverse">
+  <component name="RunManager" selected="Python.Calc">
     <configuration name="Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,9 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calc" />
         <item itemvalue="Python.StringReverse" />
         <item itemvalue="Python.StringReplace" />
-        <item itemvalue="Python.Calc" />
       </list>
     </recent_temporary>
   </component>
@@ -138,22 +136,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1591741455378">
+    <state width="1259" height="523" key="GridCell.Tab.0.bottom" timestamp="1591743005773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591741455378" />
-    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1591741455378">
+    <state width="1259" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591743005773" />
+    <state width="1259" height="523" key="GridCell.Tab.0.center" timestamp="1591743005773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591741455378" />
-    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1591741455378">
+    <state width="1259" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591743005773" />
+    <state width="1259" height="523" key="GridCell.Tab.0.left" timestamp="1591743005773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591741455378" />
-    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1591741455378">
+    <state width="1259" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591743005773" />
+    <state width="1259" height="523" key="GridCell.Tab.0.right" timestamp="1591743005773">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591741455378" />
+    <state width="1259" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591743005773" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1591723875293">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
