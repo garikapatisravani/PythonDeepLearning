@@ -11,3 +11,5 @@ ICP4 wiki : https://github.com/garikapatisravani/PythonDeepLearning/wiki/ICP4
 ICP5 wiki : https://github.com/garikapatisravani/PythonDeepLearning/wiki/ICP5
 
 ICP6 wiki : https://github.com/garikapatisravani/PythonDeepLearning/wiki/ICP6
+
+ICP7 wiki : https://github.com/garikapatisravani/PythonDeepLearning/wiki/ICP7
